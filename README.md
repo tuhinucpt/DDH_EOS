@@ -12,10 +12,10 @@ star has the lower limit, a medium value and the upper limit  of the the 90\% CI
 probabilities $P(R|M)$. We have also included DDBu1 that has a slightly lower $R_{1.4}$ than the upper limit but
 lies completely inside the 90\% CI for the conditional probabilities $P(R|M)$.
 
-We also release our entire sets of 15K NS matter EOS. All the EOSs are for NS core and starting 
+<!We also release our entire sets of 15K NS matter EOS. All the EOSs are for NS core and starting 
 baryon density is 0.04 fm$^{-3}$. Once has to chose their own crust EOS for the calculation of star properties.
 The uncertainty in star properties for the choice of different crust has been discussed in Section 2.1 of 
-the manuscript (arxiv: 2201.12552).
+the manuscript (arxiv: 2201.12552).>
 
 # Citation 
 @article{Malik:2022zol,
